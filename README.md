@@ -1,4 +1,4 @@
-# tanishsingh-project
+
 This is my first git repository.
 <br>
-Author - Tanish Singh
+Author - thakur Tanish Singh
